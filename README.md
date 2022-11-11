@@ -17,7 +17,7 @@ Creación de Páginas Web con HTML y CSS y aprendiendo cada vez mas sobre este m
 ```js
 const romejp451 ={
   pronouns: "he" | "him",
-  code: {Java, HTML, CSS},
+  code: {Java, HTML, CSS, Python},
   }
 
   
