@@ -11,9 +11,12 @@ Creación de Páginas Web con HTML y CSS y aprendiendo cada vez mas sobre este m
 - ⚡Dato curioso: El trabajo en equipo me motiva a aprender de mis errores.
                     
  
- - Datos personales: \n- Me encantan todo tipo de videojuegos.
-                     \n- Hacer deporte.
-                     \n- Practicar diferentes tipos de instrumentos.
+ - Datos personales: 
+- Me encantan todo tipo de videojuegos.
+                     
+- Hacer deporte.
+                     
+- Practicar diferentes tipos de instrumentos.
 ```js
 const romejp451 ={
   pronouns: "he" | "him",
