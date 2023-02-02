@@ -12,11 +12,11 @@ Creación de Páginas Web con HTML y CSS y aprendiendo cada vez mas sobre este m
                     
  
  - Datos personales: 
-- Me encantan todo tipo de videojuegos.
+      Me encantan todo tipo de videojuegos.
                      
-- Hacer deporte.
+      Hacer deporte.
                      
-- Practicar diferentes tipos de instrumentos.
+      Practicar diferentes tipos de instrumentos.
 ```js
 const romejp451 ={
   pronouns: "he" | "him",
